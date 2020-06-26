@@ -17,3 +17,6 @@ To run the local jupyter which will then open a browser window::
 
    ./go.sh
 
+I have a few notebooks for tutorials I am having a go at. The "House Weather" 
+notebook will be where I try to get to grips with the data I'm capturing and 
+experiments as I learn more.
