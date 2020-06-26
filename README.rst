@@ -3,6 +3,7 @@ Data Magic for my House Weather Project
 
 I'm using Jupyter Notebooks to help me work out how to visualise the data I'm gathering.
 
+This is part of the `House Weather Project <https://github.com/users/oisinmulvihill/projects/3>`_.
 
 Environment
 -----------
